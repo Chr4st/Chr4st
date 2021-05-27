@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Chr4st
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning PHP
-- 📫 How to reach me: 
+- Hi, I’m @Chr4st
+- How to reach me: 
 - Discord: Chr4st#0019
 
 <!---
