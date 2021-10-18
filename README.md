@@ -1,6 +1,6 @@
 ### Hi there, I'm Christ - aka Chr4st 👋
 
-## I'm a Student, Web and Pocketmine Developer!!
+## I'm a Student, Web Developer, Java and Pocketmine Developer!!
 
 🔭 I am currently working on a Pocketmine Plugin
 
@@ -23,6 +23,8 @@ CSS
 JavaScript
 
 PHP
+
+Java
 
 ## Platforms I use:
 
