@@ -17,12 +17,17 @@ Discord: Chr4st#6969
 
 Languages I know:
 HTML
+
 CSS
+
 JavaScript
+
 PHP
 
 Platforms I use:
+
 Pocketmine
+
 Wordpress
 
 
