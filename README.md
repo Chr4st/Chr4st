@@ -1,4 +1,4 @@
-# Hi, I'm Chris
+# Hi, I'm Christ
 
 Math, CS & Statistics @ University of Michigan | Freshman | Retired web dev (saved from JS)
 
