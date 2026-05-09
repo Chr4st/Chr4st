@@ -24,16 +24,6 @@ Currently working on symbolic computation, multi-model AI orchestration, and Mac
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" height="165" />
-</p>
-
 
 
 ## Featured Projects
