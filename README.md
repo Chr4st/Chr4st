@@ -29,7 +29,7 @@ Currently working on symbolic computation, multi-model AI orchestration, and Mac
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chr4st&theme=github_dark" width="100%" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=Chr4st&bg_color=0d1117&color=c9cacc&line=2bbc8a&point=ffffff&hide_border=true" width="100%" />
+
 
 ## Featured Projects
 
@@ -37,4 +37,4 @@ Currently working on symbolic computation, multi-model AI orchestration, and Mac
 |---------|-------------|
 | [**conductor**](https://github.com/Chr4st/conductor) | Multi-model AI coding orchestrator — Claude + Gemma + Codex in a Tauri desktop app `Rust` |
 | [**Integrals**](https://github.com/Chr4st/Integrals) | ML-powered symbolic integration engine: SymPy-first with Transformer fallback `Python` |
-| [**MultiVersion**](https://github.com/Nightfall-MCPE/MultiVersion) | Multi-version protocol support plugin for PocketMine-MP `PHP` ⭐ 31 |
+| [**MultiVersion**](https://github.com/Nightfall-MCPE/MultiVersion) | Multi-version protocol support plugin for PocketMine-MP `PHP` |
