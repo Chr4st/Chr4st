@@ -1,6 +1,6 @@
 # Hi, I'm Chris
 
-Math, CS & Statistics @ University of Michigan | Freshman
+Math, CS & Statistics @ University of Michigan | Freshman | Retired web dev (saved from JS)
 
 Interested in ML research and distributed systems. Background in PHP plugin architecture, database management, and networked systems — built and ran [Nightfall MCPE](https://github.com/Nightfall-MCPE), a Minecraft server network with custom game infrastructure.
 
