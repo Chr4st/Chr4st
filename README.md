@@ -2,9 +2,9 @@
 
 Math, CS & Statistics @ University of Michigan | Freshman | Retired web dev (saved from JS)
 
-Interested in ML research and distributed systems. Background in PHP plugin architecture, database management, and networked systems — built and ran [Nightfall MCPE](https://github.com/Nightfall-MCPE), a Minecraft server network with custom game infrastructure.
+Interested in ML research and distributed systems. Background in PHP plugin architecture, database management, and networked systems. Check out [Nightfall MCPE](https://github.com/Nightfall-MCPE), a Minecraft server network with custom game infrastructure.
 
-Currently working on symbolic computation, multi-model AI orchestration, and computational neuroscience.
+Currently working on symbolic computation, multi-model AI orchestration, and Machine Learning projects.
 
 ## Tech Stack
 
