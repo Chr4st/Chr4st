@@ -21,12 +21,17 @@ Currently working on symbolic computation, multi-model AI orchestration, and Mac
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chr4st&theme=github_dark" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chr4st&theme=github_dark" height="165" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chr4st&theme=github_dark" width="100%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="165" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="165" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="165" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" height="165" />
 </p>
 
 
