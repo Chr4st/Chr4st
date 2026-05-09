@@ -20,28 +20,21 @@ Currently working on symbolic computation, multi-model AI orchestration, and Mac
 
 ## GitHub Stats
 
-<a href="https://github.com/Chr4st">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chr4st&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" height="165" />
-</a>
-<a href="https://github.com/Chr4st">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chr4st&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" height="165" />
-</a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chr4st&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chr4st&theme=github_dark" height="165" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chr4st&theme=github_dark" width="100%" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=Chr4st&bg_color=1d1f21&color=c9cacc&line=2bbc8a&point=ffffff&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=Chr4st&bg_color=0d1117&color=c9cacc&line=2bbc8a&point=ffffff&hide_border=true" width="100%" />
 
 ## Featured Projects
 
-<a href="https://github.com/Chr4st/conductor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chr4st&repo=conductor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
-</a>
-<a href="https://github.com/Chr4st/Integrals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chr4st&repo=Integrals&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Nightfall-MCPE/MultiVersion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nightfall-MCPE&repo=MultiVersion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" />
-</a>
+| Project | Description |
+|---------|-------------|
+| [**conductor**](https://github.com/Chr4st/conductor) | Multi-model AI coding orchestrator — Claude + Gemma + Codex in a Tauri desktop app `Rust` |
+| [**Integrals**](https://github.com/Chr4st/Integrals) | ML-powered symbolic integration engine: SymPy-first with Transformer fallback `Python` |
+| [**MultiVersion**](https://github.com/Nightfall-MCPE/MultiVersion) | Multi-version protocol support plugin for PocketMine-MP `PHP` ⭐ 31 |
