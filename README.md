@@ -2,9 +2,8 @@
 
 Math, CS & Statistics @ University of Michigan | Freshman | Retired web dev (saved from JS) | YC S26 Founder @ Rational
 
-Interested in ML research and distributed systems. Background in PHP plugin architecture, database management, and networked systems. Check out [Nightfall MCPE](https://github.com/Nightfall-MCPE), a Minecraft server network with custom game infrastructure.
-
-Currently working on symbolic computation, AI infrastructure, and Machine Learning projects.
+Technical interests in ML research and distributed systems. Background in PHP plugin architecture, database management, and networked systems. 
+Currently building Rational.
 
 ## Tech Stack
 
