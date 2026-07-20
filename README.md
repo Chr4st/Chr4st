@@ -1,9 +1,6 @@
 # Hi, I'm Christ
 
-Math, CS & Statistics @ University of Michigan | Freshman | Retired web dev (saved from JS) | YC S26 Founder @ Rational
-
-Technical interests in ML research and distributed systems. Background in PHP plugin architecture, database management, and networked systems. 
-Currently building Rational.
+Math, CS & Statistics @ University of Michigan | Retired web dev (saved from JS) 
 
 ## Tech Stack
 
@@ -60,10 +57,3 @@ Currently building Rational.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chr4st&theme=github-dark&hide_border=true&area=true" width="100%" />
 </p>
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**conductor**](https://github.com/Chr4st/conductor) | Multi-model AI coding orchestrator — Claude + Gemma + Codex in a Tauri desktop app `Rust` |
-| [**Integrals**](https://github.com/Chr4st/Integrals) | ML-powered symbolic integration engine: SymPy-first with Transformer fallback `Python` |
-| [**MultiVersion**](https://github.com/Nightfall-MCPE/MultiVersion) | Multi-version protocol support plugin for PocketMine-MP `PHP` |
