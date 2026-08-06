@@ -1,6 +1,6 @@
 # Hi, I'm Christ
 
-Math, CS & Statistics @ University of Michigan | Retired web dev (saved from JS) 
+Math, CS & Statistics @ University of Michigan | Retired web and mc dev 
 
 ## Tech Stack
 
